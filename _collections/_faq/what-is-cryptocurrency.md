@@ -4,7 +4,7 @@ image: Crypto2.png
 permalink: /faq/what-is-cryptocurrency/
 layout: faq
 tag: CONCEPTS
-learnMoreLink: https://staging.weteachblockchain.org/courses/blockchain-101/
+learnMoreLink: https://weteachblockchain.org/courses/blockchain-101/
 learnMoreText: Our Blockchain 101 Course
 weight: 2
 ---
