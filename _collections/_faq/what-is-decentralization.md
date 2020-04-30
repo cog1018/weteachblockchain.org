@@ -4,7 +4,7 @@ image: Decent2.png
 permalink: /faq/what-is-decentralization/
 layout: faq
 tag: CONCEPTS
-learnMoreLink: /courses/decentralized-storage/
+learnMoreLink: https://weteachblockchain.org/courses/decentralized-storage/
 learnMoreText: Our Decentralized Storage Course
 weight: 2
 ---
